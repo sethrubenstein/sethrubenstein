@@ -6,4 +6,4 @@ As with most self-taught WordPress developers PHP is my first love but with the 
 
 Connect with me on [💼 LinkedIn](https://www.linkedin.com/in/sethrubenstein/), follow me on [🐦 Twitter](https://www.twitter.com/sethrubenstein), or on [📸 Glass](https://glass.photo/sethrubenstein).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethrubenstein)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethrubenstein&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
